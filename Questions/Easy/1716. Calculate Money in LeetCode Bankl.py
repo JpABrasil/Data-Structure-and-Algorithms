@@ -1,0 +1,2 @@
+def totalMoney(n):
+    money = []
