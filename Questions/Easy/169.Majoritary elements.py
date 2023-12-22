@@ -6,7 +6,6 @@ class Solution(object):
         """
         n = len(nums)
         dic = {}
-        lista = []
         for i in nums:
             if i in dic.keys():
                 dic[i] += 1
